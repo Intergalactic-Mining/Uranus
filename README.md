@@ -42,4 +42,6 @@ For Ryzen processors, check [here](https://en.wikipedia.org/wiki/List_of_AMD_Ryz
 | AMD Zen 2 processors | zen2 |
 | AMD Zen 3 processors | zen3 |
 
-Older Intel/AMD processors and ARM processors are not supported for now.
+## Notes
+1. Older Intel/AMD processors, and ARM processors are not supported for now.
+2. The reported hashrate is inclusive of the dev fee. To calculate the effective hashrate, multiply the reported hashrate by `1 - dev fee in decimal`.
