@@ -27,7 +27,7 @@ Create a custom miner with the following settings:
 | Option | Value |
 | ----------- | ----------- |
 | Name | uranus |
-| Installation URL | https://github.com/Intergalactic-Mining/Uranus/releases/download/0.0.2/uranus-0.0.2_hiveos.tar.gz |
+| Installation URL | https://github.com/Intergalactic-Mining/Uranus/releases/download/0.0.2/uranus-0.0.2_hiveos_rev2.tar.gz |
 | Hash algorithm | astrobwt |
 | Wallet and worker template | %WAL%.%WORKER_NAME% |
 | Pool URL | `stratum+tcp://<stratum pool host>:<port>` or `wss://<dero node host>:<port>`  |
